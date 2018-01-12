@@ -1,6 +1,6 @@
 <?php
 
-include("common/dbconnect.php");
+include("dbconnect.php");
 
 $de= mysqli_real_escape_string($_GET["decode"]);
 
