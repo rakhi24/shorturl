@@ -1,6 +1,6 @@
 <?php
 ob_start();
-include("common/dbconnect.php");
+include("dbconnect.php");
 
 ?>
 <html>
@@ -13,7 +13,7 @@ include("common/dbconnect.php");
 
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="style.css">
 
 	
   </head>
